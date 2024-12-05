@@ -1,1 +1,1 @@
-# Elektribas-izmaksu-kalkulators
+# Elektroiericu-paterina-kalkulators
